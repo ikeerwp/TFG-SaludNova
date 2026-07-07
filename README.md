@@ -35,8 +35,6 @@ Los objetivos principales del trabajo son:
 ```
 TFG/
 │
-├── main.tex
-├── references.bib
 ├── riesgos.csv
 ├── riesgos_resultado.csv
 ├── simulador.py
