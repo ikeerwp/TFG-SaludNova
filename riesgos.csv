@@ -1,0 +1,11 @@
+ID;Riesgo;Probabilidad_Inicial;Impacto_Inicial;Riesgo_Inicial;Probabilidad_Residual;Impacto_Residual;Riesgo_Residual
+R1;Ransomware en puestos internos;4;5;20;2;4;8
+R2;Robo de credenciales por phishing;4;5;20;2;4;8
+R3;Acceso indebido a historias clínicas;3;5;15;2;4;8
+R4;Fuga por envío erróneo de informes;3;4;12;2;3;6
+R5;Indisponibilidad de aplicación SaaS;3;4;12;2;3;6
+R6;Copias de seguridad no recuperables;3;5;15;1;4;4
+R7;Movimiento lateral desde Wi-Fi invitados;3;4;12;1;3;3
+R8;Compromiso del acceso remoto del proveedor;3;5;15;2;4;8
+R9;Pérdida o robo de portátil;2;4;8;1;3;3
+R10;Repositorio documental mal configurado;3;4;12;2;3;6
