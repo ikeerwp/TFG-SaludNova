@@ -78,9 +78,3 @@ El análisis se basa principalmente en:
 # Autor
 
 Iker Infantes
-
-Trabajo Fin de Grado
-
-Universitat Oberta de Catalunya (UOC)
-
-Curso 2024-2025
